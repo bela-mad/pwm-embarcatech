@@ -26,6 +26,11 @@ com um atraso de ajuste de 10ms; </p>
 
 <p align="justify"> &emsp;&emsp;&emsp;&emsp; O projeto é composto pelos arquivos comuns a um projeto Pico W, além de uma pasta chamada 'wokwi', com os arquivos diagram.json e wokwi.toml (para a simulação no Wokwi) e os arquivos pwm-embarcatech.c (que gerencia todo o projeto) e READ.ME (descrição do projeto).
 
+<h3></h3>
+<h2 align="center"> Vídeo :video_camera: </h2>
+<p align="justify"> &emsp;&emsp;&emsp;&emsp; Aqui está o link para o vídeo com uma prática de simulação associada a esta tarefa: </p>
+<p align="center"> https://youtu.be/EGiRPeTzB84 </p>
+
 <h2></h2>
 <h2 align="center"> Como utilizar :computer_mouse: </h2>
 
